@@ -1,4 +1,4 @@
-# chemistry.online
+# digitalchemistry.org
 A Jupyter Notebook collection covering all aspects of digital chemistry. I use this in my classes at Humboldt-University Berlin. Most of them run directly in Google Colab. (Updated: 8/23)
 
 [1] Labinformatics
