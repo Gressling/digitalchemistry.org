@@ -19,7 +19,7 @@ A Jupyter Notebook collection covering all aspects of digital chemistry. I use t
 
 [6] AI in chemistry
 
-##Folders
+## Folders
 * QM_MD_MM
 * robotics
 * analytics
